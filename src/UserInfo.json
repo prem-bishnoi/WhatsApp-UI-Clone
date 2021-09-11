@@ -1,0 +1,57 @@
+[
+    {
+        "user": "Yuvraj",
+        "message": "Send me OTP",
+        "src": "https://thispersondoesnotexist.com/image?_=18745",
+        "time": "03:42 pm"
+    },
+
+    {
+        "user": "Son of Sardar Gurwinder",
+        "message": "Bhai mere koi error aa",
+        "src": "https://thispersondoesnotexist.com/image?_=7345478",
+        "time": "yesterday"
+    },
+
+    {
+        "user": "Abhishek Tiwari",
+        "message": "Sunday nu milde aa",
+        "src": "https://thispersondoesnotexist.com/image?_=76343478",
+        "time": "11:45 pm"
+    },
+
+    {
+        "user": "Simran",
+        "message": "Sorry yaar",
+        "src": "https://thispersondoesnotexist.com/image?_=474489",
+        "time": "08:22 pm"
+    },
+
+    {
+        "user": "Simran K",
+        "message": "Phone kr yaar menu",
+        "src": "https://thispersondoesnotexist.com/image?_=574987",
+        "time": "10:09 am"
+    },
+
+    {
+        "user": "Mtlabi Simran",
+        "message": "Glti ho gyi...phone to chk",
+        "src": "https://thispersondoesnotexist.com/image?_=646",
+        "time": "09:52 pm"
+    },
+
+    {
+        "user": "Anshu Sharma",
+        "message": "Bhai Scarbrough kab ayega",
+        "src": "https://thispersondoesnotexist.com/image?_=7988",
+        "time": "Sunday"
+    },
+
+    {
+        "user": "Sky",
+        "message": "Ghar hau ke tu abhi",
+        "src": "https://thispersondoesnotexist.com/image?_=86478",
+        "time": "11:02 am"
+    }
+]

@@ -1,0 +1,114 @@
+.chat {
+    flex: .65;
+    display: flex;
+    flex-direction: column;
+    min-width: 396px;
+}
+
+.chat__header {
+    padding: 20px;
+    height: 4vh;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+}
+
+.chat__header  > .MuiAvatar-root {
+    height: 49px;
+    width: 49px;
+}
+
+.chat__headerInfo {
+    flex: 1;
+    padding-left: 20px;
+}
+
+.chat__headerInfo > h3 {
+    font-size: 16px;
+    margin: 0;
+    margin-top: 8px;
+    font-weight: 400;
+}
+
+.chat__headerInfo > p {
+    margin-top: 2px;
+    font-size: 13px;
+    color: gray;
+}
+
+.chat__headerRight > .MuiIconButton-root {
+    color: rgb(145, 145, 145);
+}
+
+.chat__body {
+    flex: 1;
+    background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png');
+    background-repeat: repeat;
+    background-position: center;
+    padding: 30px;
+    overflow-y: scroll;
+}
+
+.chat__message {
+    position: relative;
+    font-size: 14px;
+    padding: 7px;
+    background: #fff;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0;
+    margin-bottom: 2px;
+    border-top-left-radius: 1px;
+}
+
+.chat__reciever {
+    margin-left: auto;
+    background-color: #dcf8c6;
+}
+
+.chat__name {
+    position: absolute;
+    top: -15px;
+    font-size: xx-small;
+    font-weight: 800;
+}
+
+.chat__timestamp {
+    margin-left: 10px;
+    font-size: 11px;
+    color: rgb(145, 145, 145);
+}
+
+.chat__footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chat__footer > form {
+    flex: 1;
+    display: flex;
+}
+
+.chat__footer > form > input {
+    flex: 1;
+    font-size: 15px;
+    color: rgb(74, 74, 74);
+    border-radius: 30px;
+    border: none;
+    padding: 12px;
+}
+
+.chat__footer > form > input:focus {
+    outline: none;
+}
+
+.chat__footer > form > input::placeholder {
+    color: rgb(145, 145, 145);
+}
+
+.chat__footer > .MuiSvgIcon-root {
+    font-size: 30px;
+    padding: 15px;
+    color: rgb(145, 145, 145);
+} 
